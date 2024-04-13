@@ -7,5 +7,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-### DEMO for the APP is Avilabel at :
+### DEMO for the APP is available at :
 https://AkSaini23.github.io/quote-machine/
